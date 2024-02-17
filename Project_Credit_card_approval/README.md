@@ -64,7 +64,9 @@ The project repository includes the following files:
 
 - `Credit_Card.csv`: Customer information dataset
 - `Credit_card_label.csv`: Credit card approval labels dataset
-- `Credit_Card_Approval_Prediction.ipynb`: Jupyter Notebook containing the project code
+- `Credit_card_without_nan.csv`: File without the missing values
+- `Cap_odin_project_1.ipynb`: Jupyter Notebook containing the project code
+- `Project_1_capstone_Mysql`: Mysql file for queries
 - `README.md`: Project documentation and overview
 
 ## Usage
