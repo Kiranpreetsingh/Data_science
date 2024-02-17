@@ -73,7 +73,7 @@ The project repository includes the following files:
 
 1. Clone the repository
 2. Install the required dependencies
-3. Open and run the `Credit_Card_Approval_Prediction.ipynb` notebook in Jupyter Notebook.
+3. Open and run the `Cap_odin_project_1.ipynb` notebook in Jupyter Notebook.
 
 ## Contributors
 
